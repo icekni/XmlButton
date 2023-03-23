@@ -1,0 +1,5 @@
+services:
+    product_repository:
+        class: XmlButton\Repository\ProductRepository
+        arguments: ['@doctrine.dbal.default_connection', '%database_prefix%']
+        public: true

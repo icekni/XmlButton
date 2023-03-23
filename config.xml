@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>xmlbutton</name>
+	<displayName><![CDATA[XML Button]]></displayName>
+	<version><![CDATA[0.1.0]]></version>
+	<description><![CDATA[Add an \"XML export\" action in Product Catalog page]]></description>
+	<author><![CDATA[Cédric Josso]]></author>
+	<tab><![CDATA[administration]]></tab>
+	<is_configurable>1</is_configurable>
+	<need_instance>1</need_instance>
+</module>
